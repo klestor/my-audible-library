@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Sluchacze \"Lalki\" poznaja opowiesc o nieszczesliwej milosci bogatego kupca Wokulskiego do zubozalej arystokratki Izabeli Leckiej. W tle obraz spoleczenstwa polskiego konca XIX wieku. <br><br><b>Please note: This audiobook is in Polish.</b>"; 

@@ -1,0 +1,1 @@
+window.tempDataJSON = {"books":true,"series":true,"collections":false,"podcasts":false,"wishlist":false,"extras":{"domain-extension":".co.uk","pages":{},"subPageStates":[{"key":"categories","enabled":true},{"key":"authors","enabled":true},{"key":"publishers","enabled":true},{"key":"series","enabled":true},{"key":"narrators","enabled":true}],"cacheID":1725825950486}};
